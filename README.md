@@ -1,2 +1,2 @@
-# photography-portfolio
-website
+# photography_webpage
+My Company website
